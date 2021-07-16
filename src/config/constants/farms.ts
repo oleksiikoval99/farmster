@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x97228557F59E6007359E5fdBb010Ef8bf3FbF501',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,

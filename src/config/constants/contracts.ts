@@ -1,10 +1,10 @@
 export default {
   cake: {
-    56: '0x45d7dd9e810ea9f3bbab7669089e310226c74909',
+    56: '0x97228557F59E6007359E5fdBb010Ef8bf3FbF501',
     97: '',
   },
   masterChef: {
-    56: '0x03D22F1ed7BbaB423eEF0395d3cAca7894B2f134',
+    56: '0x314086a08FFc8CAc49fda6225135683a11C2a13E',
     97: '',
   },
   wbnb: {
